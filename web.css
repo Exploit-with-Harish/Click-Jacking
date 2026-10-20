@@ -1,0 +1,19 @@
+.webpg{
+
+    background-color: rgb(62, 223, 196);
+}
+
+.head{
+    text-align: center;
+}
+
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #7ea6f0;
+}
+
+.mark{
+    background-color: rgb(240, 240, 24);
+}
